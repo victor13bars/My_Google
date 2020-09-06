@@ -1,0 +1,25 @@
+.img_google {
+    padding-top: 60px;
+    text-align: center;
+}
+
+.button_and_input {
+    text-align: center;
+}
+
+
+.text {
+    width: 400px;
+    height: 30px;
+    border-color: red;
+    outline: none;
+}
+
+
+
+#btn1 {
+    width: 84px;
+    height: 36px;
+    background-color: green;
+    margin-left: 13px;
+}
